@@ -14,3 +14,6 @@
 #### Check your memory:
 - When you run this on MacOS, it makes use of the Darwin Mach API to allow the user to print out memory use information about the current process as it runs.  
 
+#### Try it out:
+- `chmod u+x run.sh`
+- `./run.sh`
